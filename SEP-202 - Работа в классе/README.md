@@ -1,4 +1,4 @@
-**SEP-202 - Работа в классе**
+### SEP-202 - Работа в классе
 
 
 Урок - 31 - 31.08.2021 - Laravel- Pagination, Seeding, Factory 
