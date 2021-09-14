@@ -16,10 +16,13 @@
 * Документация Laravel 5.8 Socialite: https://laravel.com/docs/5.8/socialite
 * Адаптеры для других платформ перечислены на веб-сайте Socialite Providers: https://socialiteproviders.com/
 
-#### Урок - 33 - 09.09.2021 - Laravel-REST_API 
+#### Урок - 33 - 09.09.2021 - Laravel-REST_API часть1
 * Файлы работы в классе: **PHP - Урок 33_Laravel-REST_API.rar** 
 ##### Материалы по теме: 
 * Как общаются программы / Что такое API, REST, CRUD и CLI https://www.youtube.com/watch?v=WNy2x8ykWgA
+
+#### Урок - 34 - 14.09.2021 - Laravel-REST_API часть2 
+* Файлы работы в классе: **PHP - Урок 34_Laravel-REST_API_часть2.rar** 
 
 
 
