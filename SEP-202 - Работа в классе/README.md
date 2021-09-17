@@ -24,5 +24,7 @@
 #### Урок - 34 - 14.09.2021 - Laravel-REST_API часть2 
 * Файлы работы в классе: **PHP - Урок 34_Laravel-REST_API_часть2.rar** 
 
-
-
+#### Урок - 35 - 16.09.2021 - Laravel-REST_API часть3
+* Файлы работы в классе: **PHP - Урок 34_Laravel-REST_API_часть3.rar** 
+##### Материалы по теме: 
+* Создание и использование RESTful API в Laravel https://maxyc.ru/programming/laravel/restful-api-laravel/
