@@ -28,3 +28,11 @@
 * Файлы работы в классе: **PHP - Урок 34_Laravel-REST_API_часть3.rar** 
 ##### Материалы по теме: 
 * Создание и использование RESTful API в Laravel https://maxyc.ru/programming/laravel/restful-api-laravel/
+
+
+#### Урок - 36 - 21.09.2021 - Laravel-REST_API часть4
+* Файлы работы в классе: **PHP - Урок 36_Laravel-REST_API_часть4.rar** 
+##### Материалы по теме: 
+* Best practices написание REST-API https://gist.github.com/fomvasss/792001644b31b64add866bd5a1610a4e
+* Создайте приложения на React и Laravel RESTful Back End: Часть 1, Laravel 5.5 API https://code.tutsplus.com/ru/tutorials/build-a-react-app-with-laravel-restful-backend-part-1-laravel-5-api--cms-29442
+* Laravel API Tutorial: How to Build and Test a RESTful API https://www.toptal.com/laravel/restful-laravel-api-tutorial
