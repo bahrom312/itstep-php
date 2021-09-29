@@ -43,3 +43,9 @@
 * Файлы работы в классе: **PHP - Урок 37_Laravel - Загрузка файлов.rar**
 
 
+#### Урок - 38 - 28.09.2021 - Laravel - Загрузка файлов в Базу Данных, Экспорт в PDF
+* Файлы работы в классе: **PHP - Урок 38_Laravel - Загрузка файлов в БД, PDF экпорт.rar**
+
+##### Материалы по теме: 
+* Laravel wrapper for Dompdf HTML to PDF Converter https://github.com/barryvdh/laravel-dompdf
+
