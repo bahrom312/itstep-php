@@ -30,3 +30,7 @@
 * 25 советов и хитростей в Laravel https://code.tutsplus.com/ru/tutorials/25-laravel-tips-and-tricks--pre-92818
 * 73 совета и хитростей Laravel и Eloquent в 2021 году https://intellect.icu/soveta-i-khitrostej-laravel-i-eloquent-v-2021-godu-7917
 
+#### Урок - 22 - 27.09.2021 
+Файлы работы в классе: **PHP_Урок_22_Laravel - Миграции и Авторизация.rar**
+
+
