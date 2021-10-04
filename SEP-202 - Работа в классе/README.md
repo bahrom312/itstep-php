@@ -49,3 +49,10 @@
 ##### Материалы по теме: 
 * Laravel wrapper for Dompdf HTML to PDF Converter https://github.com/barryvdh/laravel-dompdf
 
+#### Урок - 39 - 30.09.2021 - Laravel - Подключение Bootstrap, Экспорт в PDF, Экспорт в Excel 
+* Файлы работы в классе: **PHP - Урок 39_Laravel - Bootstrap, PDF, Excel.rar**
+
+##### Материалы по теме: 
+* Laravel wrapper for Dompdf HTML to PDF Converter https://github.com/barryvdh/laravel-dompdf
+* Laravel Excel exports and imports https://github.com/Maatwebsite/Laravel-Excel
+
