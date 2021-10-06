@@ -34,11 +34,11 @@
 Файлы работы в классе: **PHP_Урок_22_Laravel - Миграции и Авторизация.rar**
 
 
-#### Урок - 23 - 27.09.2021 - Laravel Pagination, Seeding
+#### Урок - 23 - 29.09.2021 - Laravel Pagination, Seeding
 Файлы работы в классе: **PHP_Урок_23_Laravel - Pagination, Seeding.rar**
 
 
-#### Урок - 24 - 27.09.2021 - Laravel Socialite, Пример авторизации через аккаунт Google
+#### Урок - 24 - 04.10.2021 - Laravel Socialite, Пример авторизации через аккаунт Google
 Файлы работы в классе: **PHP_Урок_24_Laravel - Socialite, Gmail.rar**
 ##### Материалы по теме: 
 * Laravel Socialite https://laravel.com/docs/5.8/socialite
@@ -48,7 +48,7 @@
 * Laravel Socialite ► Вход с Facebook https://www.youtube.com/watch?v=oAYyYhd58qQ
 * Laravel 5.8 Команда установки Socialite: **composer require laravel/socialite ~3**
 
-#### Урок - 25 - 27.09.2021 - REST API
+#### Урок - 25 - 06.10.2021 - REST API
 
 ##### Материалы по теме: 
 * Postman™ portable https://portapps.io/app/postman-portable/#download
