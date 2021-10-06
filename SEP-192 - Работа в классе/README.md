@@ -48,3 +48,7 @@
 * Laravel Socialite ► Вход с Facebook https://www.youtube.com/watch?v=oAYyYhd58qQ
 * Laravel 5.8 Команда установки Socialite: **composer require laravel/socialite ~3**
 
+#### Урок - 24 - 27.09.2021 - REST API
+
+##### Материалы по теме: 
+Postman™ portable https://portapps.io/app/postman-portable/#download
