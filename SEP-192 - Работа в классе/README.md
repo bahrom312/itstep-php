@@ -41,7 +41,10 @@
 #### Урок - 24 - 27.09.2021 - Laravel Socialite, Пример авторизации через аккаунт Google
 Файлы работы в классе: **PHP_Урок_24_Laravel - Socialite, Gmail.rar**
 ##### Материалы по теме: 
+* Laravel Socialite https://laravel.com/docs/5.8/socialite
+* Laravel wrapper around OAuth 1 & OAuth 2 libraries https://github.com/laravel/socialite
 * Adding Social Logins with Laravel Socialite https://www.youtube.com/watch?v=FLsSEV5ulD4
 * Laravel Socialite ► Вход с Google https://www.youtube.com/watch?v=9FKBKoWg-lQ
 * Laravel Socialite ► Вход с Facebook https://www.youtube.com/watch?v=oAYyYhd58qQ
+* Laravel 5.8 Команда установки Socialite: **composer require laravel/socialite ~3**
 
