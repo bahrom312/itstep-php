@@ -34,3 +34,14 @@
 Файлы работы в классе: **PHP_Урок_22_Laravel - Миграции и Авторизация.rar**
 
 
+#### Урок - 23 - 27.09.2021 - Laravel Pagination, Seeding
+Файлы работы в классе: **PHP_Урок_23_Laravel - Pagination, Seeding.rar**
+
+
+#### Урок - 24 - 27.09.2021 - Laravel Socialite, Пример авторизации через аккаунт Google
+Файлы работы в классе: **PHP_Урок_24_Laravel - Socialite, Gmail.rar**
+##### Материалы по теме: 
+* Adding Social Logins with Laravel Socialite https://www.youtube.com/watch?v=FLsSEV5ulD4
+* Laravel Socialite ► Вход с Google https://www.youtube.com/watch?v=9FKBKoWg-lQ
+* Laravel Socialite ► Вход с Facebook https://www.youtube.com/watch?v=oAYyYhd58qQ
+
