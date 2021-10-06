@@ -56,3 +56,11 @@
 * Laravel wrapper for Dompdf HTML to PDF Converter https://github.com/barryvdh/laravel-dompdf
 * Laravel Excel exports and imports https://github.com/Maatwebsite/Laravel-Excel
 
+#### Урок - 40 - 05.10.2021 - Laravel - NoCaptcha reCAPTCHA, Пример Подключения Google reCAPTCHA v2
+* Файлы работы в классе: **PHP - Урок 40_Laravel - Google reCAPTCHA v2.rar**
+
+##### Материалы по теме: 
+* No CAPTCHA reCAPTCHA For Laravel https://github.com/anhskohbo/no-captcha
+* LARAVEL Капча от Google reCAPTCHA: https://www.youtube.com/watch?v=_poAgofQdaI 
+* Google reCAPTCHA Admin: https://www.google.com/recaptcha/admin/ 
+
