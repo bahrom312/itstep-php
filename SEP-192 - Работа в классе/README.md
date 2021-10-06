@@ -51,4 +51,5 @@
 #### Урок - 25 - 27.09.2021 - REST API
 
 ##### Материалы по теме: 
-Postman™ portable https://portapps.io/app/postman-portable/#download
+* Postman™ portable https://portapps.io/app/postman-portable/#download
+* Dummy Rest API Example https://dummy.restapiexample.com/
