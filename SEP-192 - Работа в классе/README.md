@@ -51,5 +51,6 @@
 #### Урок - 25 - 06.10.2021 - REST API
 
 ##### Материалы по теме: 
+* Как общаются программы / Что такое API, REST, CRUD и CLI https://www.youtube.com/watch?v=WNy2x8ykWgA
 * Postman™ portable https://portapps.io/app/postman-portable/#download
 * Dummy Rest API Example https://dummy.restapiexample.com/
