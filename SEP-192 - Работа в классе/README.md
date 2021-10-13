@@ -48,9 +48,23 @@
 * Laravel Socialite ► Вход с Facebook https://www.youtube.com/watch?v=oAYyYhd58qQ
 * Laravel 5.8 Команда установки Socialite: **composer require laravel/socialite ~3**
 
-#### Урок - 25 - 06.10.2021 - REST API
+#### Урок - 25 - 06.10.2021 - REST API часть1
 
 ##### Материалы по теме: 
 * Как общаются программы / Что такое API, REST, CRUD и CLI https://www.youtube.com/watch?v=WNy2x8ykWgA
 * Postman™ portable https://portapps.io/app/postman-portable/#download
 * Dummy Rest API Example https://dummy.restapiexample.com/
+
+#### Урок - 26 - 11.10.2021 - REST API часть2
+Файлы работы в классе: **  **
+##### Материалы по теме: 
+* 
+* 
+* 
+
+#### Урок - 27 - 11.10.2021 - REST API часть3
+Файлы работы в классе: **  **
+##### Материалы по теме: 
+*
+*
+*
