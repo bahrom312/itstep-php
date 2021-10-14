@@ -62,7 +62,7 @@
 
 
 #### Урок - 27 - 13.10.2021 - REST API часть3
-Файлы работы в классе: **PHP_Урок_26_Laravel - REST_API_часть3.rar**
+Файлы работы в классе: **PHP_Урок_27_Laravel - REST_API_часть3.rar**
 
 ##### Материалы по теме: 
 * Laravel API Tutorial: How to Build and Test a RESTful API https://www.toptal.com/laravel/restful-laravel-api-tutorial
@@ -75,4 +75,4 @@
 
 
 #### Урок - 28 - 14.10.2021 - REST API часть4
-Файлы работы в классе: **PHP_Урок_26_Laravel - REST_API_часть4.rar**
+Файлы работы в классе: **PHP_Урок_28_Laravel - REST_API_часть4.rar**
