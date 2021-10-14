@@ -48,6 +48,7 @@
 * Laravel Socialite ► Вход с Facebook https://www.youtube.com/watch?v=oAYyYhd58qQ
 * Laravel 5.8 Команда установки Socialite: **composer require laravel/socialite ~3**
 
+
 #### Урок - 25 - 06.10.2021 - REST API часть1
 
 ##### Материалы по теме: 
@@ -55,16 +56,21 @@
 * Postman™ portable https://portapps.io/app/postman-portable/#download
 * Dummy Rest API Example https://dummy.restapiexample.com/
 
+
 #### Урок - 26 - 11.10.2021 - REST API часть2
-Файлы работы в классе: **  **
-##### Материалы по теме: 
-* 
-* 
-* 
+Файлы работы в классе: **PHP_Урок_26_Laravel - REST_API_часть2.rar**
+
 
 #### Урок - 27 - 11.10.2021 - REST API часть3
-Файлы работы в классе: **  **
+Файлы работы в классе: **PHP_Урок_26_Laravel - REST_API_часть3.rar**
+
 ##### Материалы по теме: 
-*
-*
-*
+* Laravel API Tutorial: How to Build and Test a RESTful API https://www.toptal.com/laravel/restful-laravel-api-tutorial
+* Создание REST API с аутентификацией https://laravel.demiart.ru/create-rest-api-with-authentication/
+* Создаем RESTful API в Laravel 5: как написать и протестировать https://developernotes.ru/laravel-5/rest-restful-api
+* Best practices написание REST-API  https://gist.github.com/fomvasss/792001644b31b64add866bd5a1610a4e
+* Создание и использование RESTful API в Laravel  https://maxyc.ru/programming/laravel/restful-api-laravel/
+* Build RESTful API In Laravel 5.8 Example https://www.itsolutionstuff.com/post/build-restful-api-in-laravel-58-exampleexample.html
+* REST API на Laravel в 100 строк кода https://habr.com/ru/post/441946/
+
+
