@@ -16,13 +16,16 @@
 * Документация Laravel 5.8 Socialite: https://laravel.com/docs/5.8/socialite
 * Адаптеры для других платформ перечислены на веб-сайте Socialite Providers: https://socialiteproviders.com/
 
+
 #### Урок - 33 - 09.09.2021 - Laravel-REST_API часть1
 * Файлы работы в классе: **PHP - Урок 33_Laravel-REST_API.rar** 
 ##### Материалы по теме: 
 * Как общаются программы / Что такое API, REST, CRUD и CLI https://www.youtube.com/watch?v=WNy2x8ykWgA
 
+
 #### Урок - 34 - 14.09.2021 - Laravel-REST_API часть2 
 * Файлы работы в классе: **PHP - Урок 34_Laravel-REST_API_часть2.rar** 
+
 
 #### Урок - 35 - 16.09.2021 - Laravel-REST_API часть3
 * Файлы работы в классе: **PHP - Урок 34_Laravel-REST_API_часть3.rar** 
@@ -49,12 +52,14 @@
 ##### Материалы по теме: 
 * Laravel wrapper for Dompdf HTML to PDF Converter https://github.com/barryvdh/laravel-dompdf
 
+
 #### Урок - 39 - 30.09.2021 - Laravel - Подключение Bootstrap, Экспорт в PDF, Экспорт в Excel 
 * Файлы работы в классе: **PHP - Урок 39_Laravel - Bootstrap, PDF, Excel.rar**
 
 ##### Материалы по теме: 
 * Laravel wrapper for Dompdf HTML to PDF Converter https://github.com/barryvdh/laravel-dompdf
 * Laravel Excel exports and imports https://github.com/Maatwebsite/Laravel-Excel
+
 
 #### Урок - 40 - 05.10.2021 - Laravel - NoCaptcha reCAPTCHA, Пример Подключения Google reCAPTCHA v2
 * Файлы работы в классе: **PHP - Урок 40_Laravel - Google reCAPTCHA v2.rar**
@@ -64,3 +69,27 @@
 * LARAVEL Капча от Google reCAPTCHA: https://www.youtube.com/watch?v=_poAgofQdaI 
 * Google reCAPTCHA Admin: https://www.google.com/recaptcha/admin/ 
 
+
+#### Урок - 41 - 07.10.2021 - Laravel - Accessors & Mutators & Validation
+* Файлы работы в классе: **PHP - Урок 41_Laravel - Accessors & Mutators & Validation.rar**
+
+##### Материалы по теме: 
+* Eloquent: Mutators & Casting https://laravel.com/docs/8.x/eloquent-mutators
+* Laravel: Accessors (аксессоры) и Mutators (мутаторы). https://web-programming.com.ua/laravel-accessors-aksessory-i-mutators-mutatory/
+* Eloquent: Аксессоры и мутаторы (Accessors and Mutators) https://laravel.su/docs/8.x/eloquent-mutators
+* Laravel урок: Аксессоры и мутаторы. https://www.youtube.com/watch?v=d_kkdrNorRY
+* --------------------------------------
+* Laravel Validation https://laravel.com/docs/5.8/validation
+* Laravel 8 · Валидация https://docs.rularavel.com/docs/8.x/validation
+* Laravel - Валидация https://unetway.com/tutorial/laravel-validation
+* Всё о валидации в Laravel https://laravel.demiart.ru/laravel-validation-controllers-form-requests-and-rules/
+
+
+
+#### Урок - 42 - 12.10.2021 - Laravel - Admin Panel Voyager
+* Файлы работы в классе: **PHP - Урок 42_Laravel - Admin Panel Voyager.rar**
+
+##### Материалы по теме: 
+* Voyager - The Missing Laravel Admin  https://github.com/the-control-group/voyager
+* How to Create Admin Panel using Voyager in Laravel 8 https://onlinewebtutorblog.com/how-to-create-admin-panel-using-voyager-in-laravel-8/
+* Подключаем админ-панель voyager https://www.youtube.com/watch?v=_yIip4WoPWc
