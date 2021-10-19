@@ -81,3 +81,11 @@
 #### Урок - 29 - 18.10.2021 - Загрузка файлов
 Файлы работы в классе: **PHP_Урок_29_Laravel - Загрузка файлов.rar**
 
+
+#### Урок - 30 - 19.10.2021 - Загрузка файлов в Базу данных
+
+##### Материалы по теме: 
+* Laravel 7 Multiple File Upload Tutorial https://www.itsolutionstuff.com/post/laravel-7-multiple-file-upload-tutorialexample.html
+* How to Upload Multiple Images and Files in Laravel with Validation https://www.cloudways.com/blog/laravel-multiple-files-images-upload/
+* 
+
