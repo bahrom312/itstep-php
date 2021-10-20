@@ -83,6 +83,7 @@
 
 
 #### Урок - 30 - 19.10.2021 - Загрузка файлов в Базу данных, PDF Экспорт
+Файлы работы в классе: **PHP_Урок_30_Laravel - Загрузка файлов в БД, PDF экспорт.rar**
 
 ##### Материалы по теме: 
 * Laravel 7 Multiple File Upload Tutorial https://www.itsolutionstuff.com/post/laravel-7-multiple-file-upload-tutorialexample.html
