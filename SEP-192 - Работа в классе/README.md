@@ -82,10 +82,16 @@
 Файлы работы в классе: **PHP_Урок_29_Laravel - Загрузка файлов.rar**
 
 
-#### Урок - 30 - 19.10.2021 - Загрузка файлов в Базу данных
+#### Урок - 30 - 19.10.2021 - Загрузка файлов в Базу данных, PDF Экспорт
 
 ##### Материалы по теме: 
 * Laravel 7 Multiple File Upload Tutorial https://www.itsolutionstuff.com/post/laravel-7-multiple-file-upload-tutorialexample.html
 * How to Upload Multiple Images and Files in Laravel with Validation https://www.cloudways.com/blog/laravel-multiple-files-images-upload/
-* 
+* Laravel wrapper for Dompdf HTML to PDF Converter https://github.com/barryvdh/laravel-dompdf
 
+
+#### Урок - 31 - 20.10.2021 - Экспорт в PDF, Экспорт в Excel
+
+##### Материалы по теме: 
+* Laravel Excel exports and imports https://github.com/Maatwebsite/Laravel-Excel
+* 
