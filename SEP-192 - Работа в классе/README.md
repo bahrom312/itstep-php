@@ -92,6 +92,7 @@
 
 
 #### Урок - 31 - 20.10.2021 - Экспорт в PDF, Экспорт в Excel
+Файлы работы в классе: **PHP_Урок_31_Laravel - Экспорт в PDF, Экспорт в Excel.rar**
 
 ##### Материалы по теме: 
 * Laravel Excel exports and imports https://github.com/Maatwebsite/Laravel-Excel
