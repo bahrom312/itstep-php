@@ -93,3 +93,16 @@
 * Voyager - The Missing Laravel Admin  https://github.com/the-control-group/voyager
 * How to Create Admin Panel using Voyager in Laravel 8 https://onlinewebtutorblog.com/how-to-create-admin-panel-using-voyager-in-laravel-8/
 * Подключаем админ-панель voyager https://www.youtube.com/watch?v=_yIip4WoPWc
+
+
+
+
+#### Урок - 43 - 21.10.2021 - Laravel - Admin Panel Voyager
+* Файлы работы в классе: **PHP - Урок 43_Laravel - WordPress Установка.rar**
+
+##### Материалы по теме: 
+* Установка WordPress  https://codex.wordpress.org/Установка_WordPress
+* How to install WordPress https://wordpress.org/support/article/how-to-install-wordpress/
+* Wordpress с нуля | Урок 2. Как установить Wordpress. https://www.youtube.com/watch?v=jUlyey0sJlY 
+* Как сделать сайт на Wordpress (2021) - урок в 23 ПРОСТЫХ шага  https://www.youtube.com/watch?v=RMESX_5SPgE&t=403s
+* Установка WordPress на Open Server https://www.youtube.com/watch?v=PrkOkbsTQW4
