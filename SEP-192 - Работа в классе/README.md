@@ -38,6 +38,7 @@
 Файлы работы в классе: **PHP_Урок_23_Laravel - Pagination, Seeding.rar**
 
 
+
 #### Урок - 24 - 04.10.2021 - Laravel Socialite, Пример авторизации через аккаунт Google
 Файлы работы в классе: **PHP_Урок_24_Laravel - Socialite, Gmail.rar**
 ##### Материалы по теме: 
@@ -57,8 +58,10 @@
 * Dummy Rest API Example https://dummy.restapiexample.com/
 
 
+
 #### Урок - 26 - 11.10.2021 - REST API часть2
 Файлы работы в классе: **PHP_Урок_26_Laravel - REST_API_часть2.rar**
+
 
 
 #### Урок - 27 - 13.10.2021 - REST API часть3
@@ -74,12 +77,15 @@
 * REST API на Laravel в 100 строк кода https://habr.com/ru/post/441946/
 
 
+
 #### Урок - 28 - 14.10.2021 - REST API часть4
 Файлы работы в классе: **PHP_Урок_28_Laravel - REST_API_часть4.rar**
 
 
+
 #### Урок - 29 - 18.10.2021 - Загрузка файлов
 Файлы работы в классе: **PHP_Урок_29_Laravel - Загрузка файлов.rar**
+
 
 
 #### Урок - 30 - 19.10.2021 - Загрузка файлов в Базу данных, PDF Экспорт
@@ -96,4 +102,25 @@
 
 ##### Материалы по теме: 
 * Laravel Excel exports and imports https://github.com/Maatwebsite/Laravel-Excel
-* 
+
+
+
+#### Урок - 32 - 25.10.2021 - Экспорт в PDF, Экспорт в Excel
+Файлы работы в классе: **PHP_Урок_32_Laravel - Google reCAPTCHA v2.rar**
+
+##### Материалы по теме: 
+* No CAPTCHA reCAPTCHA For Laravel https://github.com/anhskohbo/no-captcha
+* LARAVEL Капча от Google reCAPTCHA: https://www.youtube.com/watch?v=_poAgofQdaI 
+* Google reCAPTCHA Admin: https://www.google.com/recaptcha/admin/ 
+
+
+
+
+#### Урок - 32 - 26.10.2021 - Экспорт в PDF, Экспорт в Excel
+Файлы работы в классе: **PHP_Урок_33_Laravel - Accessors & Mutators.rar**
+
+##### Материалы по теме: 
+* Eloquent: Mutators & Casting https://laravel.com/docs/8.x/eloquent-mutators
+* Laravel: Accessors (аксессоры) и Mutators (мутаторы). https://web-programming.com.ua/laravel-accessors-aksessory-i-mutators-mutatory/
+* Eloquent: Аксессоры и мутаторы (Accessors and Mutators) https://laravel.su/docs/8.x/eloquent-mutators
+* Laravel урок: Аксессоры и мутаторы. https://www.youtube.com/watch?v=d_kkdrNorRY
