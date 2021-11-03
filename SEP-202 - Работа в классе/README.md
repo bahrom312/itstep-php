@@ -97,8 +97,8 @@
 
 
 
-#### Урок - 43 - 21.10.2021 - Laravel - Admin Panel Voyager
-* Файлы работы в классе: **PHP - Урок 43_Laravel - WordPress Установка.rar**
+#### Урок - 43 - 21.10.2021 - WordPress Установка и настройка
+* Файлы работы в классе: **PHP - Урок 43 - WordPress Установка.rar**
 
 ##### Материалы по теме: 
 * Установка WordPress  https://codex.wordpress.org/Установка_WordPress
