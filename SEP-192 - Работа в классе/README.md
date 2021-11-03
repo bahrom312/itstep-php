@@ -105,7 +105,7 @@
 
 
 
-#### Урок - 32 - 25.10.2021 - Экспорт в PDF, Экспорт в Excel
+#### Урок - 32 - 25.10.2021 - Laravel - NoCaptcha reCAPTCHA, Пример Подключения Google reCAPTCHA v2
 Файлы работы в классе: **PHP_Урок_32_Laravel - Google reCAPTCHA v2.rar**
 
 ##### Материалы по теме: 
@@ -116,7 +116,7 @@
 
 
 
-#### Урок - 32 - 26.10.2021 - Экспорт в PDF, Экспорт в Excel
+#### Урок - 33 - 26.10.2021 - Laravel - Accessors & Mutators
 Файлы работы в классе: **PHP_Урок_33_Laravel - Accessors & Mutators.rar**
 
 ##### Материалы по теме: 
@@ -124,3 +124,47 @@
 * Laravel: Accessors (аксессоры) и Mutators (мутаторы). https://web-programming.com.ua/laravel-accessors-aksessory-i-mutators-mutatory/
 * Eloquent: Аксессоры и мутаторы (Accessors and Mutators) https://laravel.su/docs/8.x/eloquent-mutators
 * Laravel урок: Аксессоры и мутаторы. https://www.youtube.com/watch?v=d_kkdrNorRY
+
+
+#### Урок - 34 - 26.10.2021 - Laravel - Validation
+Файлы работы в классе: **PHP_Урок_34_Laravel - Validation.rar**
+
+##### Материалы по теме: 
+* Laravel Validation https://laravel.com/docs/5.8/validation
+* Laravel 8 · Валидация https://docs.rularavel.com/docs/8.x/validation
+* Laravel - Валидация https://unetway.com/tutorial/laravel-validation
+* Всё о валидации в Laravel https://laravel.demiart.ru/laravel-validation-controllers-form-requests-and-rules/
+
+
+#### Урок - 35 - 26.10.2021 - Laravel - Admin Panel Voyager
+Файлы работы в классе: **PHP_Урок_33_Laravel - Accessors & Mutators.rar**
+
+##### Материалы по теме: 
+* Voyager - The Missing Laravel Admin  https://github.com/the-control-group/voyager
+* How to Create Admin Panel using Voyager in Laravel 8 https://onlinewebtutorblog.com/how-to-create-admin-panel-using-voyager-in-laravel-8/
+* Подключаем админ-панель voyager https://www.youtube.com/watch?v=_yIip4WoPWc
+
+
+#### Урок - 36 - 26.10.2021 - Экспорт в PDF, Экспорт в Excel
+Файлы работы в классе: 
+
+##### Материалы по теме: 
+* Установка WordPress  https://codex.wordpress.org/Установка_WordPress
+* How to install WordPress https://wordpress.org/support/article/how-to-install-wordpress/
+* Wordpress с нуля | Урок 2. Как установить Wordpress. https://www.youtube.com/watch?v=jUlyey0sJlY 
+* Как сделать сайт на Wordpress (2021) - урок в 23 ПРОСТЫХ шага  https://www.youtube.com/watch?v=RMESX_5SPgE&t=403s
+* Установка WordPress на Open Server https://www.youtube.com/watch?v=PrkOkbsTQW4
+
+
+#### Урок - 37 - 26.10.2021 - WordPress Разработка плагина
+Файлы работы в классе: **PHP_Урок_37_WordPress-Разработка плагина.rar**
+
+##### Материалы по теме: 
+* Написание плагина: https://codex.wordpress.org/Написание_плагина 
+* Как создать плагин https://wp-kama.ru/handbook/plugin/create 
+* Все хуки ядра WordPress 5.8.1 https://wp-kama.ru/hooks/hooks-db 
+* Написание простого плагина WordPress, руководство для начинающих
+* Плагин WordPress: Руководство по созданию своего плагина
+* Пишем WordPress плагин за 10 минут! Хауди Хо™
+
+
