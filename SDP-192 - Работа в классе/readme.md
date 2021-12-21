@@ -48,5 +48,12 @@
 Файлы работы в классе: **PHP_Урок_12_localhost.rar**
 
 
+#### Урок - 13 - 21.12.2021 
+Файлы работы в классе: **PHP_Урок_13_localhost.rar**
+##### Материалы по теме: 
+* PHP - Загрузка файлов на сервер https://wm-school.ru/php/php_file_upload.php
+* Обработка изображений в PHP https://snipp.ru/php/gd
+
+
 
 
