@@ -54,10 +54,14 @@
 * PHP - Загрузка файлов на сервер https://wm-school.ru/php/php_file_upload.php
 * Обработка изображений в PHP https://snipp.ru/php/gd
 
+
+
 #### Урок - 14 - 22.12.2021 
 Файлы работы в классе: **PHP_Урок_14_localhost.rar**
 ##### Материалы по теме: 
 * PHP - Введение в AJAX https://wm-school.ru/php/php_ajax_intro.php
+
+
 
 #### Урок - 15 - 23.12.2021 
 Файлы работы в классе: **PHP_Урок_15_localhost.rar**
