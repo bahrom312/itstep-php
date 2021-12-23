@@ -57,6 +57,11 @@
 #### Урок - 14 - 22.12.2021 
 Файлы работы в классе: **PHP_Урок_14_localhost.rar**
 ##### Материалы по теме: 
+* PHP - Введение в AJAX https://wm-school.ru/php/php_ajax_intro.php
 
-
+#### Урок - 15 - 23.12.2021 
+Файлы работы в классе: **PHP_Урок_15_localhost.rar**
+##### Материалы по теме: 
+* PHP - AJAX и MySQL https://wm-school.ru/php/php_ajax_database.php
+* jQuery.ajax() https://api.jquery.com/jquery.ajax/
 
