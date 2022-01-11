@@ -71,9 +71,17 @@
 
 
 
-#### Урок - 15 - 10.01.2022 
+#### Урок - 16 - 10.01.2022 
 Файлы работы в классе: **PHP_Урок_16_localhost.rar**
 ##### Материалы по теме: 
-https://laravel.ru/docs/v5/installation
-https://laravel.com/docs/5.8/installation 
+* https://laravel.ru/docs/v5/installation
+* https://laravel.com/docs/5.8/installation 
+
+
+#### Урок - 17 - 11.01.2022 
+Файлы работы в классе: **PHP_Урок_17_laravel5.rar**
+##### Материалы по теме: 
+* Маршрутизация (https://laravel.ru/docs/v5/routing)
+* Контроллеры (https://laravel.ru/docs/v5/controllers)
+* Представления (https://laravel.ru/docs/v5/views)
 
