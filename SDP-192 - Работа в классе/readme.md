@@ -69,3 +69,11 @@
 * PHP - AJAX и MySQL https://wm-school.ru/php/php_ajax_database.php
 * jQuery.ajax() https://api.jquery.com/jquery.ajax/
 
+
+
+#### Урок - 15 - 10.01.2022 
+Файлы работы в классе: **PHP_Урок_16_localhost.rar**
+##### Материалы по теме: 
+https://laravel.ru/docs/v5/installation
+https://laravel.com/docs/5.8/installation 
+
