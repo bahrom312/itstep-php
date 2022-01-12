@@ -85,3 +85,8 @@
 * Контроллеры (https://laravel.ru/docs/v5/controllers)
 * Представления (https://laravel.ru/docs/v5/views)
 
+
+#### Урок - 18 - 12.01.2022 
+Файлы работы в классе: **PHP_Урок_18_laravel5.rar**
+##### Материалы по теме: 
+*  
