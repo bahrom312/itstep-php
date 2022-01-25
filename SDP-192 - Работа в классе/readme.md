@@ -108,7 +108,8 @@
 #### Урок - 21 - 18.01.2022 
 Файлы работы в классе: **PHP_Урок_21_laravel5.rar**
 ##### Материалы по теме: 
-*  
+* 25 советов и хитростей в Laravel https://code.tutsplus.com/ru/tutorials/25-laravel-tips-and-tricks--pre-92818
+* 73 совета и хитростей Laravel и Eloquent в 2021 году https://intellect.icu/soveta-i-khitrostej-laravel-i-eloquent-v-2021-godu-7917
 
 
 #### Урок - 22 - 19.01.2022 
@@ -125,4 +126,9 @@
 #### Урок - 24 - 24.01.2022 
 Файлы работы в классе: **PHP_Урок_24_localhost_(Laravel-Socialite).rar**
 ##### Материалы по теме: 
-*  
+* Laravel Socialite https://laravel.com/docs/5.8/socialite
+* Laravel wrapper around OAuth 1 & OAuth 2 libraries https://github.com/laravel/socialite
+* Adding Social Logins with Laravel Socialite https://www.youtube.com/watch?v=FLsSEV5ulD4
+* Laravel Socialite ► Вход с Google https://www.youtube.com/watch?v=9FKBKoWg-lQ
+* Laravel Socialite ► Вход с Facebook https://www.youtube.com/watch?v=oAYyYhd58qQ
+* Laravel 5.8 Команда установки Socialite: **composer require laravel/socialite ~3**
