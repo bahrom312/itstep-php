@@ -118,12 +118,12 @@
 *  
 
 
-#### Урок - 23 - 20.01.2022 
+#### Урок - 23 - 20.01.2022 - Laravel Pagination, Seeding
 Файлы работы в классе: **PHP_Урок_23_laravel5.rar**
 ##### Материалы по теме: 
 *  
 
-#### Урок - 24 - 24.01.2022 
+#### Урок - 24 - 24.01.2022 - Laravel Socialite, Пример авторизации через аккаунт Google
 Файлы работы в классе: **PHP_Урок_24_localhost_(Laravel-Socialite).rar**
 ##### Материалы по теме: 
 * Laravel Socialite https://laravel.com/docs/5.8/socialite
