@@ -136,7 +136,10 @@
 * Add Social Facebook Login in Laravel With Socialite https://techvblogs.com/blog/social-login-laravel-socialite
 
 
+
+
 #### Урок - 25 - 26.01.2022 - Laravel Socialite, Пример авторизации через аккаунт Google
 Файлы работы в классе: **PHP_Урок_24_localhost_(Laravel-Socialite).rar**
 ##### Материалы по теме: 
 * Test your front-end against a real API  https://reqres.in/
+* Welcome Dummy api example https://dummy.restapiexample.com/
