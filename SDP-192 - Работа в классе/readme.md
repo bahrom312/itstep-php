@@ -134,3 +134,9 @@
 * Laravel 5.8 Команда установки Socialite: **composer require laravel/socialite ~3**
 * Пример использования пакета Socialite в Laravel 8 для авторизации через аккаунт Google https://www.internet-technologies.ru/articles/primer-ispolzovaniya-paketa-socialite-v-laravel-8.html#header-57633-6
 * Add Social Facebook Login in Laravel With Socialite https://techvblogs.com/blog/social-login-laravel-socialite
+
+
+#### Урок - 25 - 26.01.2022 - Laravel Socialite, Пример авторизации через аккаунт Google
+Файлы работы в классе: **PHP_Урок_24_localhost_(Laravel-Socialite).rar**
+##### Материалы по теме: 
+* Test your front-end against a real API  https://reqres.in/
