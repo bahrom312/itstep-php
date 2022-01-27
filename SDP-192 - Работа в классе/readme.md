@@ -147,3 +147,9 @@
 * Test your front-end against a real API  https://reqres.in/
 * Welcome Dummy api example https://dummy.restapiexample.com/
 
+
+#### Урок - 26 - 27.01.2022 - Laravel: REST API часть2
+##### Материалы по теме: 
+* Swagger Petstore. petstore.swagger.io https://petstore.swagger.io/
+* 
+
