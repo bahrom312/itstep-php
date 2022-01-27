@@ -139,7 +139,11 @@
 
 
 #### Урок - 25 - 26.01.2022 - Laravel Socialite, Пример авторизации через аккаунт Google
-Файлы работы в классе: **PHP_Урок_24_localhost_(Laravel-Socialite).rar**
 ##### Материалы по теме: 
+* Как общаются программы / Что такое API, REST, CRUD и CLI https://www.youtube.com/watch?v=WNy2x8ykWgA
+* Download Postman https://www.postman.com/downloads/
+* Postman™ portable https://portapps.io/app/postman-portable/#download
+* Dummy Rest API Example https://dummy.restapiexample.com/
 * Test your front-end against a real API  https://reqres.in/
 * Welcome Dummy api example https://dummy.restapiexample.com/
+
