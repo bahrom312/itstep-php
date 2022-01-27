@@ -112,19 +112,19 @@
 * 73 совета и хитростей Laravel и Eloquent в 2021 году https://intellect.icu/soveta-i-khitrostej-laravel-i-eloquent-v-2021-godu-7917
 
 
-#### Урок - 22 - 19.01.2022 
+#### Урок - 22 - 19.01.2022 - Laravel: Миграции и Авторизация
 Файлы работы в классе: **PHP_Урок_22_laravel5.rar**
 ##### Материалы по теме: 
 *  
 
 
-#### Урок - 23 - 20.01.2022 - Laravel Pagination, Seeding
+#### Урок - 23 - 20.01.2022 - Laravel: Pagination, Seeding
 Файлы работы в классе: **PHP_Урок_23_laravel5.rar**
 ##### Материалы по теме: 
 *  
 
-#### Урок - 24 - 24.01.2022 - Laravel Socialite, Пример авторизации через аккаунт Google
-Файлы работы в классе: **PHP_Урок_24_localhost_(Laravel-Socialite).rar**
+#### Урок - 24 - 24.01.2022 - Laravel: Socialite, Пример авторизации через аккаунт Google
+Файлы работы в классе: **PHP_Урок_24_localhost_(Laravel-Socialite).rar**, **PHP_Урок_25_localhost_(Laravel-Socialite).rar**
 ##### Материалы по теме: 
 * Laravel Socialite https://laravel.com/docs/5.8/socialite
 * Laravel wrapper around OAuth 1 & OAuth 2 libraries https://github.com/laravel/socialite
@@ -138,7 +138,7 @@
 
 
 
-#### Урок - 25 - 26.01.2022 - Laravel Socialite, Пример авторизации через аккаунт Google
+#### Урок - 25 - 26.01.2022 - Laravel: REST API часть1
 ##### Материалы по теме: 
 * Как общаются программы / Что такое API, REST, CRUD и CLI https://www.youtube.com/watch?v=WNy2x8ykWgA
 * Download Postman https://www.postman.com/downloads/
