@@ -151,5 +151,28 @@
 #### Урок - 26 - 27.01.2022 - Laravel: REST API часть2
 ##### Материалы по теме: 
 * Swagger Petstore. petstore.swagger.io https://petstore.swagger.io/
-* 
+
+
+
+#### Урок - 36 - 15.02.2022 - WordPress-Установка и настройка
+Файлы работы в классе: 
+
+##### Материалы по теме: 
+* Установка WordPress  https://codex.wordpress.org/Установка_WordPress
+* How to install WordPress https://wordpress.org/support/article/how-to-install-wordpress/
+* Wordpress с нуля | Урок 2. Как установить Wordpress. https://www.youtube.com/watch?v=jUlyey0sJlY 
+* Как сделать сайт на Wordpress (2021) - урок в 23 ПРОСТЫХ шага  https://www.youtube.com/watch?v=RMESX_5SPgE&t=403s
+* Установка WordPress на Open Server https://www.youtube.com/watch?v=PrkOkbsTQW4
+
+
+#### Урок - 37 - 16.02.2022 - WordPress Разработка плагина
+Файлы работы в классе: **PHP_Урок_37_WordPress-Разработка плагина.rar**
+
+##### Материалы по теме: 
+* Написание плагина: https://codex.wordpress.org/Написание_плагина 
+* Как создать плагин https://wp-kama.ru/handbook/plugin/create 
+* Все хуки ядра WordPress 5.8.1 https://wp-kama.ru/hooks/hooks-db 
+* Написание простого плагина WordPress, руководство для начинающих
+* Плагин WordPress: Руководство по созданию своего плагина
+* Пишем WordPress плагин за 10 минут! Хауди Хо™
 
