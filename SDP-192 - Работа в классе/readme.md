@@ -172,7 +172,7 @@
 * Написание плагина: https://codex.wordpress.org/Написание_плагина 
 * Как создать плагин https://wp-kama.ru/handbook/plugin/create 
 * Все хуки ядра WordPress 5.8.1 https://wp-kama.ru/hooks/hooks-db 
-* Написание простого плагина WordPress, руководство для начинающих
-* Плагин WordPress: Руководство по созданию своего плагина
-* Пишем WordPress плагин за 10 минут! Хауди Хо™
+* Написание простого плагина WordPress, руководство для начинающих https://techblog.sdstudio.top/napisanie-prostogo-plagina-wordpress-rukovodstvo-dlja-nachinajushhih/
+* Плагин WordPress: Руководство по созданию своего плагина https://www.hostinger.ru/rukovodstva/plugin-wordpress-rukovodstvo-po-sozdaniu-svoego-plugina/
+* Пишем WordPress плагин за 10 минут! Хауди Хо™ https://www.youtube.com/watch?v=PVGHG6ofKx4
 
