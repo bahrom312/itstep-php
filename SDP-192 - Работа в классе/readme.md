@@ -176,3 +176,11 @@
 * Плагин WordPress: Руководство по созданию своего плагина https://www.hostinger.ru/rukovodstva/plugin-wordpress-rukovodstvo-po-sozdaniu-svoego-plugina/
 * Пишем WordPress плагин за 10 минут! Хауди Хо™ https://www.youtube.com/watch?v=PVGHG6ofKx4
 
+
+Пример загрузка файлов на бесплатный хостинг : 
+
+**Бесплатный хостинг с PHP, MySQL, cPanel и без рекламы!  
+https://www.000webhost.com**
+
+https://laravel312.000webhostapp.com/hello.php
+
