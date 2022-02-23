@@ -177,10 +177,18 @@
 * Пишем WordPress плагин за 10 минут! Хауди Хо™ https://www.youtube.com/watch?v=PVGHG6ofKx4
 
 
+
+
+
+
 Пример загрузка файлов на бесплатный хостинг : 
 
 **Бесплатный хостинг с PHP, MySQL, cPanel и без рекламы!  
 https://www.000webhost.com**
 
 https://laravel312.000webhostapp.com/hello.php
+
+
+
+Free Hosting https://byet.host/free-hosting
 
