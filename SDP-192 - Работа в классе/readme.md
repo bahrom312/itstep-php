@@ -179,7 +179,6 @@
 
 
 #### Урок - 41 - 23.02.2022 - Пример загрузка файлов на бесплатный хостинг
-
 **Бесплатный хостинг с PHP, MySQL, cPanel и без рекламы! https://www.000webhost.com**
 https://laravel312.000webhostapp.com/hello.php
 
@@ -187,9 +186,23 @@ Free Hosting: https://byet.host/free-hosting
 Laravel Demo Project: http://laravel312.byethost3.com/
 
 
-#### Урок - 42 - 24.02.2022 - WordPress Разработка плагина
-Файлы работы в классе: **PHP_Урок_42_laravel5_(Создание_Middleware).rar**
 
+
+#### Урок - 42 - 24.02.2022 - Создание Middleware
+Файлы работы в классе: **PHP_Урок_42_laravel5_(Создание_Middleware).rar**
 ##### Материалы по теме: 
 * Создание посредника: https://laravel.ru/docs/v5/middleware
+
+
+
+
+#### Урок - 43 - 28.02.2022 - Laravel Локализация
+Файлы работы в классе: **PHP_Урок_43_laravel5_(Создание_Middleware).rar**
+##### Материалы по теме: 
+* Создание Локализация: https://laravel.ru/docs/v5/localization
+* Реализация многоязычности на Laravel 5 силами фреймворка https://habr.com/ru/post/264435/
+* 10 лучших пакетов Laravel для переводов и мультиязычности https://laravel.demiart.ru/10-best-laravel-packages-for-multi-language-translations/
+
+
+
 
