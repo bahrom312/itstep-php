@@ -197,7 +197,7 @@ Laravel Demo Project: http://laravel312.byethost3.com/
 
 
 #### Урок - 43 - 28.02.2022 - Laravel Локализация
-Файлы работы в классе: **PHP_Урок_43_laravel5_(Создание_Middleware).rar**
+Файлы работы в классе: **PHP_Урок_43_laravel8_(Laravel_Локализация).rar**
 ##### Материалы по теме: 
 * Создание Локализация: https://laravel.ru/docs/v5/localization
 * Реализация многоязычности на Laravel 5 силами фреймворка https://habr.com/ru/post/264435/
