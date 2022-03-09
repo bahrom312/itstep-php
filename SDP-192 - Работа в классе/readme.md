@@ -205,4 +205,6 @@ Laravel Demo Project: http://laravel312.byethost3.com/
 
 
 
+#### Урок - 48 - 09.03.2022 - REST API документация
 
+* Пример PetStore API : https://documenter.getpostman.com/view/19941519/UVsFy8Hv
