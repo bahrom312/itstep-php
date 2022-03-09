@@ -205,6 +205,7 @@ Laravel Demo Project: http://laravel312.byethost3.com/
 
 
 
-#### Урок - 48 - 09.03.2022 - REST API документация
+#### Урок - 48 - 09.03.2022 - REST API документация, Отправка почты
 
 * Пример PetStore API : https://documenter.getpostman.com/view/19941519/UVsFy8Hv
+* Отправка почты через Gmail SMTP https://laravel.demiart.ru/send-email-using-gmail-smtp-server/ 
