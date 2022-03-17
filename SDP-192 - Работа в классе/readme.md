@@ -209,3 +209,9 @@ Laravel Demo Project: http://laravel312.byethost3.com/
 
 * Пример PetStore API : https://documenter.getpostman.com/view/19941519/UVsFy8Hv
 * Отправка почты через Gmail SMTP https://laravel.demiart.ru/send-email-using-gmail-smtp-server/ 
+
+
+#### Урок - 53 - 17.03.2022 - Laravel WebSockets и сервис Pusher
+Файлы работы в классе: **PHP_Урок_53_laravel-chat_(Laravel_WebSockets).rar**
+##### Материалы по теме: 
+* Руководство по использованию сокетов в Laravel: https://laravel.demiart.ru/sockets-laravel-guide/
