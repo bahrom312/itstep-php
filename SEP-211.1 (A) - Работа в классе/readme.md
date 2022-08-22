@@ -28,5 +28,7 @@
 * Дата и время PHP https://wm-school.ru/php/php_date.php
 * Конструкция включений include PHP https://wm-school.ru/php/php_includes.php
 
-
+#### Урок - 5 - 22.08.2022 - Знакомство с языком PHP: Работа с файлами (продолжения)
+Файлы работы в классе: **PHP_Урок_05_localhost.rar**
+##### Материалы по теме: 
 
