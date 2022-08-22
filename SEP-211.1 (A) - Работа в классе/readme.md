@@ -11,16 +11,22 @@
 
 
 
-#### Урок - 3 - 16.08.2022 - Знакомство с языком PHP: Типы данных, Условные конструкции, Массивы
+#### Урок - 3 - 16.08.2022 - Знакомство с языком PHP: Функции массивов, Циклы PHP
 Файлы работы в классе: **PHP_Урок_04_localhost.rar**
 ##### Материалы по теме: 
+* Размер массива в PHP https://www.programulin.ru/razmer-massiva-v-php
+* Объединение массивов в PHP https://www.programulin.ru/obedinenie-massivov-v-php
+* Преобразование массивов в PHP https://www.programulin.ru/preobrazovanie-massivov-v-php
+* Сортировка массивов в PHP https://wm-school.ru/php/php_arrays_sort.php
+* Циклы в PHP https://wm-school.ru/php/php_looping.php
 
 
 
-#### Урок - 4 - 15.08.2022 - Знакомство с языком PHP: Типы данных, Условные конструкции, Массивы
+#### Урок - 4 - 18.08.2022 - Знакомство с языком PHP: Создание библиотек, Работа с файлами
 Файлы работы в классе: **PHP_Урок_04_localhost.rar**
 ##### Материалы по теме: 
-
+* Дата и время PHP https://wm-school.ru/php/php_date.php
+* Конструкция включений include PHP https://wm-school.ru/php/php_includes.php
 
 
 
