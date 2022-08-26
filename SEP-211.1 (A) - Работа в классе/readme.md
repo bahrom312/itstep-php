@@ -40,4 +40,10 @@
 * Классы и объекты в PHP https://wm-school.ru/php/php_oop_classes_objects.php
 
 
+#### Урок - 7 - 26.08.2022 - Знакомство с языком PHP: Работа с объектами
+Файлы работы в классе: **PHP_Урок_07_localhost.rar**
+##### Материалы по теме: 
+* Конструктор в PHP https://wm-school.ru/php/php_oop_constructor.php
+* Деструктор в PHP https://wm-school.ru/php/php_oop_destructor.php
+* Наследование в PHP https://wm-school.ru/php/php_oop_inheritance.php
 
