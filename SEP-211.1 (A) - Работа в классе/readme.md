@@ -47,3 +47,46 @@
 * Деструктор в PHP https://wm-school.ru/php/php_oop_destructor.php
 * Наследование в PHP https://wm-school.ru/php/php_oop_inheritance.php
 
+
+#### Урок - 8 - 29.08.2022 - Знакомство с языком PHP: Работа с объектами
+Файлы работы в классе: **PHP_Урок_08_localhost.rar**
+##### Материалы по теме: 
+* Абстрактные классы в PHP https://wm-school.ru/php/php_oop_classes_abstract.php
+* Интерфейсы в PHP https://wm-school.ru/php/php_oop_interfaces.php
+* Полиморфизм в ООП на PHP https://wm-school.ru/php/php_oop_polymorphism.php
+* Трейты в PHP https://wm-school.ru/php/php_oop_traits.php
+
+
+#### Урок - 9 - 31.08.2022 - Знакомство с языком PHP: Работа с объектами
+Файлы работы в классе: **PHP_Урок_09_localhost.rar**
+##### Материалы по теме: 
+* Статические методы в PHP https://wm-school.ru/php/php_oop_static_methods.php
+* Пространства имен в PHP https://wm-school.ru/php/php_namespaces.php
+* Регулярные выражения PHP https://wm-school.ru/php/php_regex.php
+
+
+#### Урок - 10 - 05.08.2022 - Знакомство с языком PHP: Ошибки и исключения, Cookies, Сессии
+Файлы работы в классе: **PHP_Урок_10_localhost.rar**
+##### Материалы по теме: 
+* Исключения (exceptions) PHP https://wm-school.ru/php/php_exceptions.php
+* Файлы cookie PHP https://wm-school.ru/php/php_cookies.php
+* Сессии в PHP https://wm-school.ru/php/php_sessions.php
+* 
+
+
+#### Урок - 11 - 07.09.2022 - Знакомство с языком PHP: Работа с БД - MySQL
+Файлы работы в классе: **PHP_Урок_11_localhost.rar**
+##### Материалы по теме: 
+* База данных PHP MySQL https://wm-school.ru/php/php_mysql_intro.php
+* Урок 1. MySQL. Основные понятия https://www.youtube.com/watch?v=EaYGawGWKiE
+* Урок 2. MySQL. Создание БД и таблиц https://www.youtube.com/watch?v=Rjqbgk5sq0I
+* Учим Базы Данных за 1 час! (Хауди Хо™) - https://www.youtube.com/watch?v=ZKU7-ktaa2o
+
+
+#### Урок - 12 - 09.09.2022 - Знакомство с языком PHP: Работа с объектами
+Файлы работы в классе: **PHP_Урок_12_localhost.rar**
+##### Материалы по теме: 
+* 
+* 
+* 
+
