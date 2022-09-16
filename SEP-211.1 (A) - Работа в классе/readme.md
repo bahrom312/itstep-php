@@ -1,8 +1,11 @@
 
 ### SEP-211.1 (A) - Работа в классе  <br><br>
+<br><br>
 
 #### Урок - 1 - 21.07.2022 - Знакомство с языком PHP.
 
+
+<br><br>
 #### Урок - 2 - 15.08.2022 - Знакомство с языком PHP: Типы данных, Условные конструкции, Массивы
 Файлы работы в классе: **PHP_Урок_02_localhost.rar**
 ##### Материалы по теме: 
@@ -10,7 +13,7 @@
 * Массивы PHP https://wm-school.ru/php/php_arrays.php 
 
 
-
+<br><br>
 #### Урок - 3 - 16.08.2022 - Знакомство с языком PHP: Функции массивов, Циклы PHP
 Файлы работы в классе: **PHP_Урок_04_localhost.rar**
 ##### Материалы по теме: 
@@ -21,25 +24,27 @@
 * Циклы в PHP https://wm-school.ru/php/php_looping.php
 
 
-
+<br><br>
 #### Урок - 4 - 18.08.2022 - Знакомство с языком PHP: Создание библиотек, Работа с файлами
 Файлы работы в классе: **PHP_Урок_04_localhost.rar**
 ##### Материалы по теме: 
 * Дата и время PHP https://wm-school.ru/php/php_date.php
 * Конструкция включений include PHP https://wm-school.ru/php/php_includes.php
 
+
+<br><br>
 #### Урок - 5 - 22.08.2022 - Знакомство с языком PHP: Работа с файлами (продолжения)
 Файлы работы в классе: **PHP_Урок_05_localhost.rar**
 ##### Материалы по теме: 
 * PHP | Работа с файлами https://wm-school.ru/php/php_file.php
 
-
+<br><br>
 #### Урок - 6 - 24.08.2022 - Знакомство с языком PHP: Работа с объектами
 Файлы работы в классе: **PHP_Урок_06_localhost.rar**
 ##### Материалы по теме: 
 * Классы и объекты в PHP https://wm-school.ru/php/php_oop_classes_objects.php
 
-
+<br><br>
 #### Урок - 7 - 26.08.2022 - Знакомство с языком PHP: Работа с объектами
 Файлы работы в классе: **PHP_Урок_07_localhost.rar**
 ##### Материалы по теме: 
@@ -47,7 +52,7 @@
 * Деструктор в PHP https://wm-school.ru/php/php_oop_destructor.php
 * Наследование в PHP https://wm-school.ru/php/php_oop_inheritance.php
 
-
+<br><br>
 #### Урок - 8 - 29.08.2022 - Знакомство с языком PHP: Работа с объектами
 Файлы работы в классе: **PHP_Урок_08_localhost.rar**
 ##### Материалы по теме: 
@@ -56,7 +61,7 @@
 * Полиморфизм в ООП на PHP https://wm-school.ru/php/php_oop_polymorphism.php
 * Трейты в PHP https://wm-school.ru/php/php_oop_traits.php
 
-
+<br><br>
 #### Урок - 9 - 31.08.2022 - Знакомство с языком PHP: Работа с объектами
 Файлы работы в классе: **PHP_Урок_09_localhost.rar**
 ##### Материалы по теме: 
@@ -64,7 +69,7 @@
 * Пространства имен в PHP https://wm-school.ru/php/php_namespaces.php
 * Регулярные выражения PHP https://wm-school.ru/php/php_regex.php
 
-
+<br><br>
 #### Урок - 10 - 05.08.2022 - Знакомство с языком PHP: Ошибки и исключения, Cookies, Сессии
 Файлы работы в классе: **PHP_Урок_10_localhost.rar**
 ##### Материалы по теме: 
@@ -73,7 +78,7 @@
 * Сессии в PHP https://wm-school.ru/php/php_sessions.php
 * 
 
-
+<br><br>
 #### Урок - 11 - 07.09.2022 - Знакомство с языком PHP: Работа с БД - MySQL
 Файлы работы в классе: **PHP_Урок_11_localhost.rar**
 ##### Материалы по теме: 
@@ -82,17 +87,25 @@
 * Урок 2. MySQL. Создание БД и таблиц https://www.youtube.com/watch?v=Rjqbgk5sq0I
 * Учим Базы Данных за 1 час! (Хауди Хо™) - https://www.youtube.com/watch?v=ZKU7-ktaa2o
 
-
+<br><br>
 #### Урок - 12 - 09.09.2022 - Знакомство с языком PHP: Работа с БД часть2
 Файлы работы в классе: **PHP_Урок_12_localhost.rar**
 ##### Материалы по теме: 
 * 
-* 
-* 
 
-
+<br><br>
 #### Урок - 13 - 12.09.2022 - Знакомство с языком PHP: Загрузка файлов и PHP GD
 Файлы работы в классе: **PHP_Урок_13_localhost.rar**
 ##### Материалы по теме: 
 * Загрузка файлов на сервер PHP https://wm-school.ru/php/php_file_upload.php  
 * Обработка изображений в PHP https://snipp.ru/php/gd 
+
+<br><br>
+#### Урок - 14 - 14.09.2022 - Знакомство с языком PHP: PHP GD часть2, PHP AJAX
+Файлы работы в классе: **PHP_Урок_14_localhost.rar**
+##### Материалы по теме: 
+* Обработка изображений и GD https://www.php.net/manual/ru/book.image.php 
+* Работа с изображениями на PHP с использованием GD https://code.tutsplus.com/ru/tutorials/manipulating-images-in-php-using-gd--cms-31701
+* Обработка изображений и GD https://php.ru/manual/book.image.html
+
+<br><br>
