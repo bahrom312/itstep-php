@@ -7,6 +7,8 @@
 * Базы данных. Системы управления базами данных.ppt
 * Интерактивный учебник по SQL на русском: http://www.sql-tutorial.ru/
 * Интерактивный портал для решения задач на SQL:  http://www.sql-ex.ru/ 
+* Инструмент эмулирующий БД, позволяет выполнять SQL запросы: http://sqlfiddle.com/ 
+
 * **Скачать MS SQL Server 2019 (нужна регистрация)**  : https://my.visualstudio.com/Downloads?q=SQL%20Server%202019
 ![изображение](https://user-images.githubusercontent.com/37113525/215260637-70399786-0ea9-4d76-8416-a073724254ee.png)
 
