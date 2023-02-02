@@ -30,8 +30,8 @@
 
 #### Урок - 3 - 31.01.2023 - Запросы SELECT, INSERT, UPDATE, DELETE
 Файлы работы в классе: 
-* ** <a href="Работа в классе - Урок3/DT_urok_03_new_1524724199.pdf">DT_urok_03_new_1524724199.pdf</a> ** 
-* ** <a href="Работа в классе - Урок3/SQLQuery Урок-3.sql">SQLQuery Урок-3.sql </a> **
+* <a href="Работа в классе - Урок3/DT_urok_03_new_1524724199.pdf">**DT_urok_03_new_1524724199.pdf**</a> 
+* <a href="Работа в классе - Урок3/SQLQuery Урок-3.sql">**SQLQuery Урок-3.sql**</a>
 
 
 
