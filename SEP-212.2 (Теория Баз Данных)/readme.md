@@ -25,13 +25,15 @@
 Файлы работы в классе: 
 * **[DT_urok_02_new_1519805604.pdf](%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B2%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B5%20-%20%D0%A3%D1%80%D0%BE%D0%BA2/DT_urok_02_new_1519805604.pdf)**
 
-* **[Таблица Студенты и Группы.xlsx](1%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B2%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B5%20-%20%D0%A3%D1%80%D0%BE%D0%BA2/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B8%20%D0%93%D1%80%D1%83%D0%BF%D0%BF%D1%8B.xlsx)**
+* **[Таблица Студенты и Группы.xlsx](%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B2%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B5%20-%20%D0%A3%D1%80%D0%BE%D0%BA2/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B8%20%D0%93%D1%80%D1%83%D0%BF%D0%BF%D1%8B.xlsx)**
 
 
 #### Урок - 3 - 31.01.2023 - Запросы SELECT, INSERT, UPDATE, DELETE
 Файлы работы в классе: 
-* DT_urok_03_new_1524724199.pdf
-* Работа в классе - Урок3/SQLQuery Урок-3.sql 
+* ** <a href="Работа в классе - Урок3/DT_urok_03_new_1524724199.pdf">DT_urok_03_new_1524724199.pdf</a> ** 
+* ** <a href="Работа в классе - Урок3/SQLQuery Урок-3.sql">SQLQuery Урок-3.sql </a> **
+
+
 
 ##### Материалы по теме: 
 * SELECT (Transact-SQL) : https://learn.microsoft.com/ru-ru/sql/t-sql/queries/select-transact-sql
