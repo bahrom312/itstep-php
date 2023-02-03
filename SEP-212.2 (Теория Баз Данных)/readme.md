@@ -40,7 +40,8 @@
 * Online SQL Editor: https://www.programiz.com/sql/online-compiler/
 
 
-#### Урок - 4 - 02.02.2023 - Многотабличные базы данных Файлы работы в классе: 
+#### Урок - 4 - 02.02.2023 - Многотабличные базы данных
+Файлы работы в классе: 
 * <a href="DT_urok_04_new_1532354333.pdf">**DT_urok_04_new_1532354333.pdf**</a> 
 * <a href="Работа в классе - Урок4/SQLQuery Урок-4.sql">**SQLQuery Урок-4.sql**</a>
 
