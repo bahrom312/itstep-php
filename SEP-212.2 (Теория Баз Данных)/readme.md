@@ -33,8 +33,6 @@
 * <a href="Работа в классе - Урок3/DT_urok_03_new_1524724199.pdf">**DT_urok_03_new_1524724199.pdf**</a> 
 * <a href="Работа в классе - Урок3/SQLQuery Урок-3.sql">**SQLQuery Урок-3.sql**</a>
 
-
-
 ##### Материалы по теме: 
 * SELECT (Transact-SQL) : https://learn.microsoft.com/ru-ru/sql/t-sql/queries/select-transact-sql
 * SQL SELECT Statement: https://www.w3schools.com/sql/sql_select.asp 
@@ -42,4 +40,9 @@
 * Online SQL Editor: https://www.programiz.com/sql/online-compiler/
 
 
+#### Урок - 4 - 31.01.2023 - Многотабличные базы данных Файлы работы в классе: 
+* <a href="DT_urok_04_new_1532354333.pdf">**DT_urok_04_new_1532354333.pdf**</a> 
+* <a href="Работа в классе - Урок4/SQLQuery Урок-4.sql">**SQLQuery Урок-4.sql**</a>
 
+##### Материалы по теме: 
+* 
