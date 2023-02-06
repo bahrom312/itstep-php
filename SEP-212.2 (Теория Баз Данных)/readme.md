@@ -46,4 +46,23 @@
 * <a href="Работа в классе - Урок4/SQLQuery Урок-4.sql">**SQLQuery Урок-4.sql**</a>
 
 ##### Материалы по теме: 
-* 
+* Неявное соединение таблиц - https://metanit.com/sql/sqlserver/7.1.php
+
+
+
+#### Урок - 5 - 06.02.2023 - Многотабличные базы данных
+Файлы работы в классе: 
+* <a href="DT_urok_05_new_1539173154.pdf">**DT_urok_05_new_1539173154.pdf**</a> 
+* <a href="Работа в классе - Урок5/SQLQuery Урок-5.sql">**SQLQuery Урок-5.sql**</a>
+
+##### Материалы по теме: 
+* Агрегатные функции (Transact-SQL) -  https://learn.microsoft.com/ru-ru/sql/t-sql/functions/aggregate-functions-transact-sql?view=sql-server-ver16 
+* Агрегатные функции - https://metanit.com/sql/sqlserver/5.1.php
+* SELECT — GROUP BY (Transact-SQL) - https://learn.microsoft.com/ru-ru/sql/t-sql/queries/select-group-by-transact-sql?view=sql-server-ver16
+* SELECT — HAVING (Transact-SQL) - https://learn.microsoft.com/ru-ru/sql/t-sql/queries/select-having-transact-sql?view=sql-server-ver16 
+* Операторы GROUP BY и HAVING - https://metanit.com/sql/sqlserver/5.2.php
+* Вложенные запросы (SQL Server) -  https://learn.microsoft.com/ru-ru/sql/relational-databases/performance/subqueries?view=sql-server-ver16
+* Выполнение подзапросов - https://metanit.com/sql/sqlserver/6.1.php
+
+
+
