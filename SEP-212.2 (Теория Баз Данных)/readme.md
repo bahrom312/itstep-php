@@ -74,7 +74,6 @@ https://discord.gg/7Ckctcc6 (new)
 
 
 #### Урок - 7 - 09.02.2023 - Функции агрегирования
-Онлайн Урок 7 - Discord Сервер: https://discord.gg/7Ckctcc6 (new)
 Файлы работы в классе: 
 * <a href="DT_urok_05_new_1539173154.pdf">**DT_urok_05_new_1539173154.pdf**</a> 
 * <a href="Работа в классе - Урок5/SQLQuery Урок-5.sql">**SQLQuery Урок-5.sql**</a>
@@ -85,4 +84,15 @@ https://discord.gg/7Ckctcc6 (new)
 * Соединение таблиц INNER JOIN - https://metanit.com/sql/sqlserver/7.2.php
 * Соединение таблиц LEFT | RIGHT JOIN - https://metanit.com/sql/sqlserver/7.3.php
 
+
+#### Урок - 8 - 13.02.2023 - Функции агрегирования
+Файлы работы в классе: 
+* <a href="DT_urok_05_new_1539173154.pdf">**DT_urok_05_new_1539173154.pdf**</a> 
+* <a href="Работа в классе - Урок5/SQLQuery Урок-5.sql">**SQLQuery Урок-5.sql**</a>
+
+##### Материалы по теме: 
+* Соединение таблиц - https://learn.microsoft.com/ru-ru/sql/relational-databases/performance/joins?view=sql-server-ver16
+* Соединение таблиц UNION - https://metanit.com/sql/sqlserver/7.5.php
+* Соединение таблиц INNER JOIN - https://metanit.com/sql/sqlserver/7.2.php
+* Соединение таблиц LEFT | RIGHT JOIN - https://metanit.com/sql/sqlserver/7.3.php
 
