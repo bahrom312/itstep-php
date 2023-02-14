@@ -87,12 +87,14 @@ https://discord.gg/7Ckctcc6 (new)
 
 #### Урок - 8 - 13.02.2023 - Функции агрегирования
 Файлы работы в классе: 
-* <a href="DT_urok_05_new_1539173154.pdf">**DT_urok_05_new_1539173154.pdf**</a> 
-* <a href="Работа в классе - Урок5/SQLQuery Урок-5.sql">**SQLQuery Урок-5.sql**</a>
+* <a href="Работа в классе - Урок8/SQL_PZ_01_Modul__1_1548412089.pdf">**Практическое задание № 1 - Работа с таблицами и представлениями**</a> 
+* <a href="Работа в классе - Урок8/SQLQuery_-8.sql">**SQLQuery_-8.sql**</a>
 
 ##### Материалы по теме: 
-* Соединение таблиц - https://learn.microsoft.com/ru-ru/sql/relational-databases/performance/joins?view=sql-server-ver16
-* Соединение таблиц UNION - https://metanit.com/sql/sqlserver/7.5.php
-* Соединение таблиц INNER JOIN - https://metanit.com/sql/sqlserver/7.2.php
-* Соединение таблиц LEFT | RIGHT JOIN - https://metanit.com/sql/sqlserver/7.3.php
+* Создание представлений - https://learn.microsoft.com/ru-ru/sql/relational-databases/views/create-views?view=sql-server-linux-ver15
+* Представления и табличные объекты - https://metanit.com/sql/sqlserver/10.1.php
+* Представление (VIEW) в T-SQL - https://info-comp.ru/view-in-t-sql
+* Представления - https://professorweb.ru/my/sql-server/2012/level3/3_6.php
+* Представления в SQL  - https://www.youtube.com/watch?v=B3RRgBx_foc 
+* SQL VIEW Представление SQL - https://www.youtube.com/watch?v=Pk8i4n-S8L0
 
