@@ -1,8 +1,7 @@
 ### SEP-212.2 - Теория Баз Данных:
 
 
-Онлайн Урок - Discord Сервер: 
-https://discord.gg/7Ckctcc6 (new)
+Онлайн Урок - Discord Сервер: https://discord.gg/28Wr4P7aMF (new update)
 
 
 #### Урок - 1 - 26.01.2023 - Введение в теорию баз данных
