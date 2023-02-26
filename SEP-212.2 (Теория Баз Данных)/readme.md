@@ -16,7 +16,7 @@
 * **Скачать MS SQL Server 2019 Developer Edition (нужна регистрация)**  : https://my.visualstudio.com/Downloads?q=SQL%20Server%202019
 <img src="https://user-images.githubusercontent.com/37113525/215260637-70399786-0ea9-4d76-8416-a073724254ee.png" alt="изображение" style="width: 40%;">
 
-* ** Установка MSSQL Server Developer Edition** :  https://youtu.be/WUokwiaJfus
+* **Установка MSSQL Server Developer Edition** :  https://youtu.be/WUokwiaJfus
 <img src="https://user-images.githubusercontent.com/37113525/215571787-8dcedd00-c76e-4096-8d0b-5b5a5ef9319f.png" alt="изображение" style="width: 40%;">
 <img src="https://user-images.githubusercontent.com/37113525/216290370-43299766-5212-48bc-a990-b12836f65715.png" alt="изображение" style="width: 40%;">
 <img src="https://user-images.githubusercontent.com/37113525/215571842-ed6b544b-4ef8-4bac-b656-0d1b81bef49f.png" alt="изображение" style="width: 40%;">
